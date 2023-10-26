@@ -1,0 +1,40 @@
+C:\Programming\EntityFraemwork\SumOrMultiply\SumOrMultiply\bin\Debug\net7.0-windows\SumOrMultiply.exe
+C:\Programming\EntityFraemwork\SumOrMultiply\SumOrMultiply\bin\Debug\net7.0-windows\SumOrMultiply.deps.json
+C:\Programming\EntityFraemwork\SumOrMultiply\SumOrMultiply\bin\Debug\net7.0-windows\SumOrMultiply.runtimeconfig.json
+C:\Programming\EntityFraemwork\SumOrMultiply\SumOrMultiply\bin\Debug\net7.0-windows\SumOrMultiply.dll
+C:\Programming\EntityFraemwork\SumOrMultiply\SumOrMultiply\bin\Debug\net7.0-windows\SumOrMultiply.pdb
+C:\Programming\EntityFraemwork\SumOrMultiply\SumOrMultiply\obj\Debug\net7.0-windows\SumOrMultiply.csproj.AssemblyReference.cache
+C:\Programming\EntityFraemwork\SumOrMultiply\SumOrMultiply\obj\Debug\net7.0-windows\SumOrMultiply.Form1.resources
+C:\Programming\EntityFraemwork\SumOrMultiply\SumOrMultiply\obj\Debug\net7.0-windows\SumOrMultiply.csproj.GenerateResource.cache
+C:\Programming\EntityFraemwork\SumOrMultiply\SumOrMultiply\obj\Debug\net7.0-windows\SumOrMultiply.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\EntityFraemwork\SumOrMultiply\SumOrMultiply\obj\Debug\net7.0-windows\SumOrMultiply.AssemblyInfoInputs.cache
+C:\Programming\EntityFraemwork\SumOrMultiply\SumOrMultiply\obj\Debug\net7.0-windows\SumOrMultiply.AssemblyInfo.cs
+C:\Programming\EntityFraemwork\SumOrMultiply\SumOrMultiply\obj\Debug\net7.0-windows\SumOrMultiply.csproj.CoreCompileInputs.cache
+C:\Programming\EntityFraemwork\SumOrMultiply\SumOrMultiply\obj\Debug\net7.0-windows\SumOrMultiply.dll
+C:\Programming\EntityFraemwork\SumOrMultiply\SumOrMultiply\obj\Debug\net7.0-windows\refint\SumOrMultiply.dll
+C:\Programming\EntityFraemwork\SumOrMultiply\SumOrMultiply\obj\Debug\net7.0-windows\SumOrMultiply.pdb
+C:\Programming\EntityFraemwork\SumOrMultiply\SumOrMultiply\obj\Debug\net7.0-windows\SumOrMultiply.genruntimeconfig.cache
+C:\Programming\EntityFraemwork\SumOrMultiply\SumOrMultiply\obj\Debug\net7.0-windows\ref\SumOrMultiply.dll
+C:\Users\kokos\OneDrive\Рабочий стол\SumOrMultiply\SumOrMultiply\bin\Debug\net7.0-windows\SumOrMultiply.exe
+C:\Users\kokos\OneDrive\Рабочий стол\SumOrMultiply\SumOrMultiply\bin\Debug\net7.0-windows\SumOrMultiply.deps.json
+C:\Users\kokos\OneDrive\Рабочий стол\SumOrMultiply\SumOrMultiply\bin\Debug\net7.0-windows\SumOrMultiply.runtimeconfig.json
+C:\Users\kokos\OneDrive\Рабочий стол\SumOrMultiply\SumOrMultiply\bin\Debug\net7.0-windows\SumOrMultiply.dll
+C:\Users\kokos\OneDrive\Рабочий стол\SumOrMultiply\SumOrMultiply\bin\Debug\net7.0-windows\SumOrMultiply.pdb
+C:\Users\kokos\OneDrive\Рабочий стол\SumOrMultiply\SumOrMultiply\obj\Debug\net7.0-windows\SumOrMultiply.csproj.AssemblyReference.cache
+C:\Users\kokos\OneDrive\Рабочий стол\SumOrMultiply\SumOrMultiply\obj\Debug\net7.0-windows\SumOrMultiply.csproj.GenerateResource.cache
+C:\Users\kokos\OneDrive\Рабочий стол\SumOrMultiply\SumOrMultiply\obj\Debug\net7.0-windows\SumOrMultiply.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kokos\OneDrive\Рабочий стол\SumOrMultiply\SumOrMultiply\obj\Debug\net7.0-windows\SumOrMultiply.AssemblyInfoInputs.cache
+C:\Users\kokos\OneDrive\Рабочий стол\SumOrMultiply\SumOrMultiply\obj\Debug\net7.0-windows\SumOrMultiply.AssemblyInfo.cs
+C:\Users\kokos\OneDrive\Рабочий стол\SumOrMultiply\SumOrMultiply\obj\Debug\net7.0-windows\SumOrMultiply.csproj.CoreCompileInputs.cache
+C:\Users\kokos\OneDrive\Рабочий стол\SumOrMultiply\SumOrMultiply\obj\Debug\net7.0-windows\SumOrMultiply.dll
+C:\Users\kokos\OneDrive\Рабочий стол\SumOrMultiply\SumOrMultiply\obj\Debug\net7.0-windows\refint\SumOrMultiply.dll
+C:\Users\kokos\OneDrive\Рабочий стол\SumOrMultiply\SumOrMultiply\obj\Debug\net7.0-windows\SumOrMultiply.pdb
+C:\Users\kokos\OneDrive\Рабочий стол\SumOrMultiply\SumOrMultiply\obj\Debug\net7.0-windows\SumOrMultiply.genruntimeconfig.cache
+C:\Users\kokos\OneDrive\Рабочий стол\SumOrMultiply\SumOrMultiply\obj\Debug\net7.0-windows\ref\SumOrMultiply.dll
+C:\Users\kokos\OneDrive\Рабочий стол\SumOrMultiply\SumOrMultiply\obj\Debug\net7.0-windows\SumOrMultiply.Properties.Resources.resources
+C:\Users\kokos\OneDrive\Рабочий стол\SumOrMultiply\SumOrMultiply\obj\Debug\net7.0-windows\SumOrMultiply.Components.InfoPanel.resources
+C:\Users\kokos\OneDrive\Рабочий стол\SumOrMultiply\SumOrMultiply\obj\Debug\net7.0-windows\SumOrMultiply.Components.ProfilePointsPanel.resources
+C:\Users\kokos\OneDrive\Рабочий стол\SumOrMultiply\SumOrMultiply\obj\Debug\net7.0-windows\SumOrMultiply.Components.ProfileControlPanel.resources
+C:\Users\kokos\OneDrive\Рабочий стол\SumOrMultiply\SumOrMultiply\obj\Debug\net7.0-windows\SumOrMultiply.Components.PlayPanel.resources
+C:\Users\kokos\OneDrive\Рабочий стол\SumOrMultiply\SumOrMultiply\obj\Debug\net7.0-windows\SumOrMultiply.ApplicationPlace.ModernMainForm.resources
+C:\Users\kokos\OneDrive\Рабочий стол\SumOrMultiply\SumOrMultiply\obj\Debug\net7.0-windows\SumOrMultiply.ApplicationPlace.ModernPlayProcess.resources
